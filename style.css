@@ -1,0 +1,8 @@
+.navbar{
+    --bs-bg-opacity: 0.1;
+}
+.img-fluid {
+    max-width: 10%;
+    height: auto;
+    
+}
